@@ -1,5 +1,113 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 22, 2018
+
+**Today's Progress**: Yeehaw!! I opened up my Flatiron CSS Graffiti Lab and knocked it out in 20 minutes. Then I knocked out CSS Bot in 5 minutes. I'm back!
+
+**Thoughts:** I probably really needed 3 weeks to reset myself. My goal is to shorten up that timeframe in the future - after all, I'll need to be able to solve tougher problems even quicker.
+
+**Link to work:** [Learn.co] (https://learn.co)
+
+
+### Day 16: January 21, 2018
+
+**Today's Progress**: I spent hours messing with pure CSS and Javascript drop-down menus for the GSW site and came up with a handful of nothing. I need more experience before I can find the right solution for this issue. When I pulled myself out of that abyss, I knocked out fixing up some styling issues and updating the JS slider the previous admin located.
+
+**Thoughts:** It's really easy to follow down a bunny path and lose track of the deliverable, even after so many years of managing and project managing. Frankly, without that experience, I may still have been wandering about!
+
+**Link to work:** [GSW (demo site)] (http://callmekko.com/demo/gsw/)
+
+
+### Day 15: January 20, 2018
+
+**Today's Progress**: Mainly did some reading and skimming, including finding an article on how to set up a local HTTPS server. I need to add that to my task list, together with the MongoDB, HTTP, and mySQL tutorials I researched while on flight delays.
+
+**Thoughts:** I need to read articles more thoroughly and truly understand the underlying principles. This will speed up my knowledge acquistion.
+
+**Link to work:** [HTTPS article] (https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec)
+
+
+### Day 14: January 19, 2018
+
+**Today's Progress**: Read additional Medium emails.
+
+**Thoughts:** Don't get hung up on all the content I'm missing - read when I can, practice as much as possible.
+
+**Link to work:** [freeCodeCamp on Medium] (https://medium.freecodecamp.org/)
+
+
+### Day 13: January 18, 2018
+
+**Today's Progress**: Read some articles about CSS that were hanging out in either Twitter threads or Medium emails.
+
+**Thoughts:** There's lots still to learn about CSS but there are also plenty of resources.
+
+**Link to work:** [Ohans Emmanuel on Medium] (https://medium.com/@ohansemmanuel)
+
+
+### Day 12: January 17, 2018
+
+**Today's Progress**: Reviewed creating customer post types in Elegant Themes. Almost all of the PHP was crystal-clear to me. Simply awesome.
+
+**Thoughts:** The more I practice, the more things become firm in my brain!
+
+**Link to work:** [Custom Post Types in WP] (https://www.elegantthemes.com/blog/tips-tricks/creating-custom-post-types-in-wordpress)
+
+
+### Day 11: January 16, 2018
+
+**Today's Progress**: I'm certain I probably only read something brief to count towards my progress.
+
+**Thoughts:** I need to carve out more specific time daily for code.
+
+**Link to work:** None
+
+
+### Day 10: January 15, 2018
+
+**Today's Progress**: I realized I could export a WP layout to JSON, adjust the appropriate parts of the file and rename it, then import it back in. Voila! Instant new module.
+
+**Thoughts:** I'm starting to make more creative connections in solving problems.
+
+**Link to work:** [School of Voiceover](https://www.schoolofvoiceover.com/)
+
+
+### Day 9: January 14, 2018
+
+**Today's Progress**: Oh yeah, CSS sprites! I recalled them from playing in the guts of Weebly before I had enough clues, and I implemented them for the re-tread of the GSW site.
+
+**Thoughts:** I worked and sweated on this, found a couple of different tutorials, and kept going until I solved the problem. I'm getting my mojo back!
+
+**Link to work:** [GSW (demo site)] (http://callmekko.com/demo/gsw/)
+
+
+### Day 8: January 13, 2018
+
+**Today's Progress**: I decided to jump head-first into refactoring the GSW site and not put it off until Sunday. The current domain host is extremely unstable - I was fortunately able to rescue everything via FTP before the site went offline overnight on Friday. Yuck. As I posted to Twitter, my Javascript chops are improving, since I was able to locate the code I wanted based on what I already knew of the DOM and existing functions.
+
+**Thoughts:** I had been very concerned once I learned the site was NOT maintained via a CMS, then realized I was being a silly goose because I had built plenty of sites manually. The JS on the site turned out to be not too scary from a maintenance standpoint, although I could stand to keep leveling up.
+
+**Link to work:** [GSW (demo site)] (http://callmekko.com/demo/gsw/)
+
+
+### Day 7: January 12, 2018
+
+**Today's Progress**: Got in there and update the MVO website. I had originally wanted to change the template but settled for making some good cosmetic changes to the current. I decided to use the Weebly code module to really style up the content for the next concert - I used a picture of the organ at the next concert venue as the background to the information. I still need W3 schools to remind me how to use transparency but I'm learning.
+
+**Thoughts:** I put things off as if I'm going to magically acquire new knowledge so I can do things. Instead, I need to write down the outcome goal, spend no more than 20 minutes on things hanging me up, and go a different direction if needed.
+
+**Link to work:** [Mississippi Valley Orchestra] (https://www.mississippivalleyorchestra.com/)
+
+
+### Day 6: January 11, 2018
+
+**Today's Progress**: No real strong coding reinforcement today, just reviewing website possibilities with a fellow flute player in my wind ensemble who is my liaison to the board. I was suprised how much knowledge I had restored prior to this conversation - I really felt technical for the first time in a long time.
+
+**Thoughts:** Trust myself, trust the process, keep going!
+
+**Link to work:** None
+
+
 ### Day 5: January 10, 2018
 
 **Today's Progress**: Mucked around in the PHP of the Wordpress child theme my in-trade job is using, concluded that I would want to look into more of Wordpress' guts before trying anything dramatic. Updated the jQuery written by support to link the name of the school as well as the telephone number that is part of the footer.
