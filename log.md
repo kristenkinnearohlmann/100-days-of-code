@@ -6,7 +6,7 @@
 
 **Thoughts:** I probably really needed 3 weeks to reset myself. My goal is to shorten up that timeframe in the future - after all, I'll need to be able to solve tougher problems even quicker.
 
-**Link to work:** [Learn.co] (https://learn.co)
+**Link to work:** [Learn.co](https://learn.co)
 
 
 ### Day 16: January 21, 2018
@@ -15,7 +15,7 @@
 
 **Thoughts:** It's really easy to follow down a bunny path and lose track of the deliverable, even after so many years of managing and project managing. Frankly, without that experience, I may still have been wandering about!
 
-**Link to work:** [GSW (demo site)] (http://callmekko.com/demo/gsw/)
+**Link to work:** [GSW (demo site)](http://callmekko.com/demo/gsw/)
 
 
 ### Day 15: January 20, 2018
@@ -24,7 +24,7 @@
 
 **Thoughts:** I need to read articles more thoroughly and truly understand the underlying principles. This will speed up my knowledge acquistion.
 
-**Link to work:** [HTTPS article] (https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec)
+**Link to work:** [HTTPS article](https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec)
 
 
 ### Day 14: January 19, 2018
@@ -33,7 +33,7 @@
 
 **Thoughts:** Don't get hung up on all the content I'm missing - read when I can, practice as much as possible.
 
-**Link to work:** [freeCodeCamp on Medium] (https://medium.freecodecamp.org/)
+**Link to work:** [freeCodeCamp on Medium](https://medium.freecodecamp.org/)
 
 
 ### Day 13: January 18, 2018
@@ -42,7 +42,7 @@
 
 **Thoughts:** There's lots still to learn about CSS but there are also plenty of resources.
 
-**Link to work:** [Ohans Emmanuel on Medium] (https://medium.com/@ohansemmanuel)
+**Link to work:** [Ohans Emmanuel on Medium](https://medium.com/@ohansemmanuel)
 
 
 ### Day 12: January 17, 2018
@@ -51,7 +51,7 @@
 
 **Thoughts:** The more I practice, the more things become firm in my brain!
 
-**Link to work:** [Custom Post Types in WP] (https://www.elegantthemes.com/blog/tips-tricks/creating-custom-post-types-in-wordpress)
+**Link to work:** [Custom Post Types in WP](https://www.elegantthemes.com/blog/tips-tricks/creating-custom-post-types-in-wordpress)
 
 
 ### Day 11: January 16, 2018
@@ -78,7 +78,7 @@
 
 **Thoughts:** I worked and sweated on this, found a couple of different tutorials, and kept going until I solved the problem. I'm getting my mojo back!
 
-**Link to work:** [GSW (demo site)] (http://callmekko.com/demo/gsw/)
+**Link to work:** [GSW (demo site)](http://callmekko.com/demo/gsw/)
 
 
 ### Day 8: January 13, 2018
@@ -87,7 +87,7 @@
 
 **Thoughts:** I had been very concerned once I learned the site was NOT maintained via a CMS, then realized I was being a silly goose because I had built plenty of sites manually. The JS on the site turned out to be not too scary from a maintenance standpoint, although I could stand to keep leveling up.
 
-**Link to work:** [GSW (demo site)] (http://callmekko.com/demo/gsw/)
+**Link to work:** [GSW (demo site)](http://callmekko.com/demo/gsw/)
 
 
 ### Day 7: January 12, 2018
@@ -96,7 +96,7 @@
 
 **Thoughts:** I put things off as if I'm going to magically acquire new knowledge so I can do things. Instead, I need to write down the outcome goal, spend no more than 20 minutes on things hanging me up, and go a different direction if needed.
 
-**Link to work:** [Mississippi Valley Orchestra] (https://www.mississippivalleyorchestra.com/)
+**Link to work:** [Mississippi Valley Orchestra](https://www.mississippivalleyorchestra.com/)
 
 
 ### Day 6: January 11, 2018
