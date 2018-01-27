@@ -1,5 +1,41 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 26, 2018
+
+**Today's Progress**: Did a few more exercises in Python the Hard Way and found a Stack Overflow reference on how to get Git Bash for Windows to run Python in interactive mode. *whew*
+
+**Thoughts:** It's getting easier to find what I'm looking for faster.
+
+**Link to work:** [Python not working in the command line of git bash](https://stackoverflow.com/questions/32597209/python-not-working-in-the-command-line-of-git-bash)
+
+
+### Day 20: January 25, 2018
+
+**Today's Progress**: Found a tutorial on how to make a JS dropdown menu. I think I have about 90% of it but there were a couple of places where the tutorial author did a } else {...} - not helpful at this stage!!
+
+**Thoughts:** I have started to rubber duck as I re-type others' code so I can really cement the concepts as I go. I still need to fully fix this JS code and find an actual icon for the dropdown arrow - I'm thinking maybe Font Awesome?
+
+**Link to work:** [Nav Bar](https://codepen.io/callmekko/full/zpVgNJ/)
+
+
+### Day 19: January 24, 2018
+
+**Today's Progress**: Created my first WP plugin (basically non-functional but still) and shortcode. Registered my own name as a domain name (finally!)
+
+**Thoughts:** I'm finally digging into the mysteries of WP almost a year after I started in my in-trade job.
+
+**Link to work:** NA
+
+
+### Day 18: January 23, 2018
+
+**Today's Progress**: Super-simple HTML for the January race newsletter and got re-started on Python the Hard Way so I can run it side-by-side with Ruby the Hard Way. Can't wait to have time to get back to Flatiron!
+
+**Thoughts:** This little bit of practice daily keeps me focused.
+
+**Link to work:** [January newsletter](http://www.icontact-archive.com/Bm8lHV2mhxDtzhI8enWHlqesNvhA-p96)
+
+
 ### Day 17: January 22, 2018
 
 **Today's Progress**: Yeehaw!! I opened up my Flatiron CSS Graffiti Lab and knocked it out in 20 minutes. Then I knocked out CSS Bot in 5 minutes. I'm back!
