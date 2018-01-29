@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 28, 2018
+
+**Today's Progress**: I had been wanting to code along with a Medium article about making your code responsive with one line of CSS, so I did!
+
+**Thoughts:** I was able to play around to create a reasonable facsimile of the original grid the author had as an image in his tutorial, then extend it to work with the images I chose for the final part of the tutorial. Had a brain-freeze on linking a stylesheet - LOL!
+
+**Link to work:** [Hot to make your HTML responsive by adding a single line of CSS](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
+[Grid Example](http://callmekko.com/demo/responsive-example/grid.html)
+
+
+### Day 22: January 27, 2018
+
+**Today's Progress**: My in-trade guy keeps harping on writing Pythons scripts, so I did the research - yep, Python is the best to run on Mac and Win. So I found tutorial with the awesome name "Automate the Boring Stuff with Python". Skimmed through the first couple of chapters to confirm nothing new there, then set up so I could code along the next time I had time.
+
+**Thoughts:** It's nice to know that things are coming into alignment so that I learned or am learning what I need to do what I want to do!
+
+**Link to work:** [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+
 ### Day 21: January 26, 2018
 
 **Today's Progress**: Did a few more exercises in Python the Hard Way and found a Stack Overflow reference on how to get Git Bash for Windows to run Python in interactive mode. *whew*
