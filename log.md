@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 26: January 31, 2018
+
+**Today's Progress:** JavaScript meetup - chatted with Sarah Rose Battles and assisted with someone's talk that included a demo.
+
+**Thoughts:** I may be an older person in the room but the JS people are really inclusive. I need to embrace that more!
+
+**Link to work:** [JavaScript MN](http://javascriptmn.com/)
+
+
+### Day 25: January 30, 2018
+
+**Today's Progress:** Jumped out on a limb and signed up for Midwest PHP Conference.
+
+**Thoughts:** I'm going in with the small amounts I have learned, but I know I've really enjoyed working with PHP and want to learn more!
+
+**Link to work:**  [Midwest PHP](https://2018.midwestphp.org/)
+
+
+### Day 24: January 29, 2018
+
+**Today's Progress:** Skimmed tutorials and articles
+
+**Thoughts:** It's worth looking around some every day - there's no other way to filter in the information!
+
+**Link to work:** None
+
+
 ### Day 23: January 28, 2018
 
 **Today's Progress**: I had been wanting to code along with a Medium article about making your code responsive with one line of CSS, so I did!
