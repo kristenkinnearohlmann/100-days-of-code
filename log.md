@@ -1,5 +1,88 @@
 # 100 Days Of Code - Log
 
+### Day 74: March 20, 2018
+
+**Today's Progress:** Happy spring! I spent about 10 minutes with Flatiron today formally learning the box model. Stuff I didn't know and am glad to know now!
+
+**Thoughts:** It's great to be back on track with my coursework and looking into the future to my new job!
+
+**Link to work:** [Learn.co](https://learn.co/sign_in)
+
+
+### Day 73: March 19, 2018
+
+**Today's Progress:** Reading a litle more in the CSS tutorial before I head out of Caribou to rehearsal.
+
+**Thoughts:** I'm taking small steps on CSS!
+
+**Link to work:** [Learn Layout](http://learnlayout.com/)
+
+
+### Day 72: March 18, 2018
+
+**Today's Progress:** I had grand plans to get back to Flatiron schoolwork, but I was completely wiped out from my long, long weekend. I read a few articles on Medium from freeCodeCamp and Hacker Noon before I dragged myself to my treadmill for a mile run. It was low-key day for a number of my activities.
+
+**Thoughts:** I was able to absorb a little knowledge despite my fatigue.
+
+**Link to work:** NA
+
+
+### Day 71: March 17, 2018
+
+**Today's Progress:** Also known as the day almost nothing happened. I brought my computer with my to my double show day, and basically only had time to look a little into the Memberpress question before I packed it away for the whole day. The dinner break for a 3 hour long show is REALLY short!
+
+**Thoughts:** I'm still hacking away on how to get MemberPress to do what I want in a holistic way.
+
+**Link to work:** NA
+
+
+### Day 70: March 16, 2018
+
+**Today's Progress:** Patched together code in tutorials to make a functional dynamic menu item in WordPress. I'm only missing how to make a Memberpress Logout link without using someone's super old plugin.
+
+**Thoughts:** This item came together faster and easier than I thought, so I'm getting more knowledgeable all the time.
+
+**Link to work:** NA
+
+
+
+### Day 69: March 15, 2018
+
+**Today's Progress:** Read through articles - this is what I do when I have no time to do anything else!
+
+**Thoughts:** Keeping the code streak alive!
+
+**Link to work:** NA
+
+
+
+### Day 68: March 14, 2018
+
+**Today's Progress:** Looked into how I could grab a piece of data from Gravity Forms and substring it into a shortcode. I think I found a resource that will put the last piece in place but needed to stop for the day.
+
+**Thoughts:** Another example of doggedly pursuing something I think can be done.
+
+**Link to work:** NA
+
+
+### Day 67: March 13, 2018
+
+**Today's Progress:** Read a little through the CSS tutorial and got a better prespective on floats and clearfix.
+
+**Thoughts:** Gaining perspective on some of the things I have previously blindly implemented.
+
+**Link to work:** [Learn Layout](http://learnlayout.com/)
+
+
+### Day 66: March 12, 2018
+
+**Today's Progress:** Cleaned up some CSS to make a nicer layout for the student dashboard pages for School of Voiceover.
+
+**Thoughts:** I'm getting more comfortable with CSS3 all the time.
+
+**Link to work:** NA
+
+
 ### Day 65: March 11, 2018
 
 **Today's Progress:** Reading through the 30 CSS Selectors You Must Know.
