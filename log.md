@@ -1,5 +1,77 @@
 # 100 Days Of Code - Log
 
+### Day 50: February 24, 2018
+
+**Today's Progress:** Read through a little of a CSS layout tutorial and played with something I have cooking in one of my Codepen profiles.
+
+**Thoughts:** CSS is so much more evolved than when I left it in 2002. I'm using every opportunity to stuff the new stuff in my brain.
+
+**Link to work:** [Learn Layout](http://learnlayout.com/)
+
+
+### Day 49: February 23, 2018
+
+**Today's Progress:** Finally conquered my CPT!! Take that single.php!
+
+**Thoughts:** Whee!!!!! My brain finally made all the necessary connections to make this happen. It felt great!
+
+**Link to work:** NA - not yet published!
+
+
+### Day 48: Feburary 22, 2018
+
+**Today's Progress:** Located some React tutorials.
+
+**Thoughts:** I read that React is the current JS framework of choice. Never mind that my vanilla JS is very spotty!
+
+**Link to work:** NA
+
+
+### Day 47: February 21, 2018
+
+**Today's Progress:** Big day - I updated htaccess file for School of Voiceover and wrote a Python script to check for empty directories.
+
+**Thoughts:** I really did these 2 things like a boss. I have to say I impressed myself with how easily I turned both out!
+
+**Link to work:** NA
+
+
+### Day 46: February 20, 2018
+
+**Today's Progress:** I finished styling menu bar prototype for Get in Gear which I hope to use on other projects too.
+
+**Thoughts:** Although I still think there are pieces missing, the menu is working as expected.
+
+**Link to work:** [GIG Menu Bar](https://codepen.io/callmekko/pen/zpVgNJ)
+
+
+### Day 45: February 19, 2018
+
+**Today's Progress:** I completed CSS and HTML styling for School of Voiceover Direction and Contact pages, Continue Statements in Automate the Boring Stuff.
+
+**Thoughts:** It's tough for me to accept styling I don't agree with, so this was good practice.
+
+**Link to work:** [Training Center Directions](https://www.schoolofvoiceover.com/training-center-directions/), [Contact School of Voiceover](https://www.schoolofvoiceover.com/contact/), [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter2/)
+
+
+### Day 44: February 18, 2018
+
+**Today's Progress:** I worked on accordion tutorial and dug more for creating a specific kind of CPT.
+
+**Thoughts:** It was great to find the accordion tutorial and follow along. I'm looking forward to the day when I can write tutorials for others!
+
+**Link to work:** [Accordion Pen](https://codepen.io/callmekko/pen/oEEzZJ)
+
+
+### Day 43: February 17, 2018
+
+**Today's Progress:** I added pages to the GSW website to allow for program notes.
+
+**Thoughts:** I want to get to the point where coming up with layouts and information organization is even more organic.
+
+**Link to work:** NA
+
+
 ### Day 42: February 16, 2018
 
 **Today's Progress:** I did quite a lot of work on Gravity Forms, including URL parameters between forms.
