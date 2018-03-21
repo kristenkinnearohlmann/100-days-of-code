@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Day 65: March 11, 2018
+
+**Today's Progress:** Reading through the 30 CSS Selectors You Must Know.
+
+**Thoughts:** I avoided this article at first but I think it's now something I can absorb and use.
+
+**Link to work:** [30 CSS Selectors You Must Know](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
+
+### Day 64: March 10, 2018
+
+**Today's Progress:** I was not able to get to the second day of the Midwest PHP conference, so I spent some time writing out the Position portion of the CSS tutorial I am working through.
+
+**Thoughts:** I'm still working thoroughly absorb the updates to CSS.
+
+**Link to work:** [CSS Positioning](https://codepen.io/callmekko/pen/bvdNJR)
+
+
+### Day 63: March 9, 2018 
+
+**Today's Progress:** Midwest PHP conference - I made a connection and absorbed a lot of information!
+
+**Thoughts:** I did my best to present myself as someone who deserved to be there!
+
+**Link to work:** NA
+
+
+### Day 62: March 8, 2018
+
+**Today's Progress:** Attended the St. Paul CodePen meetup. I demoed my pens where I took tutorials I found and adapted them to my needs. I learned a lot from the others' more advanced pens.
+
+**Thoughts:** I took a risk and spoke. As I learn and digest more, I'll be able to speak better and more effectively.
+
+**Link to work:** NA
+
+
+### Day 61: March 7, 2018
+
+**Today's Progress:** Figured out some CSS to defeat WP and display some content in the way I wanted - learned there is a special newline character too! Resolved my issues with my jQuery dropdown menu and located some WP resources for something my in-trade client wants.
+
+**Thoughts:** If I keep after a problem from different angles, I can solve it faster.
+
+**Link to work:** NA
+
+
 ### Day 60: March 6, 2018
 
 **Today's Progress:** Girl kitty woke me so early this morning that I was dragging by the time it was time to code. I looked up a bunch of sites where I could do some daily practice and called it a night.
