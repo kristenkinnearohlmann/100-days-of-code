@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Day 55: March 1, 2018
+
+**Today's Progress:** Worked on GSW site page. Something odd in the HTML theme the previous guy had that wouldn't allow <blockquote> to render - weird! I just wrote my own CSS class. I think I'm going to make the sections live in accordions so the content isn't so long.
+
+**Thoughts:** As always, tweaking someone else's code is an adventure in puzzle solving.
+
+**Link to work:** NA
+
+
+### Day 54: February 28, 2018
+
+**Today's Progress:** Updated the School of Voiceover homepage to the Divi builder so the modules can insulate the code more. Wrestled with some custom code on MVO Weebly site.
+
+**Thoughts:** I appreciate website CMS tools but they also sometimes get in the way of the work.
+
+**Link to work:** NA
+
+
+### Day 53: February 27, 2018
+
+**Today's Progress:** Reviewed how to price work as a freelance consultant, after trying to persuade the person who does the website at my part-time job to use the code I took from a tutorial to create (badly needed) drop-down menus.
+
+**Thoughts:** I need to refine my pitch and persuasion on website topics. This will allow me to be more persuasive about why solutions should change.
+
+**Link to work:** NA
+
+
+### Day 52: February 26, 2018
+
+**Today's Progress:** Found a good stopping point in making the School of Voiceover homepage mobile friendly. Learned how WP defines function signatures.
+
+**Thoughts:** The WP function signatures were really hurting my brain until a plugin developer explained it to me. It still hurts my brain but at least I understand it!
+
+**Link to work:** NA
+
+
+### Day 51: February 25, 2018
+
+**Today's Progress:** Read more of the CSS layout tutorial and made attempt 1 to ensure the homepage of School of Voiceover was mobile friendly.
+
+**Thoughts:** Working with WordPress is interesting - sometimes it seems like things are all too simple, and sometimes things are just clunky.
+
+**Link to work:** [Learn Layout](http://learnlayout.com/)
+
+
 ### Day 50: February 24, 2018
 
 **Today's Progress:** Read through a little of a CSS layout tutorial and played with something I have cooking in one of my Codepen profiles.
