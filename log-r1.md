@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 75: March 21, 2018
+
+**Today's Progress:** Worked a little more on trying to get to the proper logout link for MemberPress. I have a few more leads to pursue.
+
+**Thoughts:** I actually thought I would be able to figure this out today but it's more complex than I realized. I know a year from now this will be quite easy!
+
+**Link to work:** NA
+
+
 ### Day 74: March 20, 2018
 
 **Today's Progress:** Happy spring! I spent about 10 minutes with Flatiron today formally learning the box model. Stuff I didn't know and am glad to know now!
