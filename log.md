@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Day 60: March 6, 2018
+
+**Today's Progress:** Girl kitty woke me so early this morning that I was dragging by the time it was time to code. I looked up a bunch of sites where I could do some daily practice and called it a night.
+
+**Thoughts:** I avoid trying to learn something new when I'm too tired.
+
+**Link to work:** NA
+
+
+### Day 59: March 5, 2018
+
+**Today's Progress:** Created Divi Category Builder pages for faculty for School of VO. Wrote a shortcode to return filter terms if used on the category page. Fought with the JavaScript menu I found but it is not working on a vanilla page - I'll have to look back into that.
+
+**Thoughts:** I felt like this was one of those times where you need to put something down before you'll be able to tackle it again and solve it.
+
+**Link to work:** NA
+
+
+### Day 58: March 4, 2018
+
+**Today's Progress:** Updated some websites, started a prototype accordion for a page and a prototype menu for GSW.
+
+**Thoughts:** I'm glad CodePen exists so I can mock things up more easily!
+
+**Link to work:** [Accordion-GSW](https://codepen.io/callmekko/pen/eVaRqY), [Nav Bar-GSW](https://codepen.io/callmekko/pen/Yebxzx)
+
+
+### Day 57: March 3, 2018
+
+**Today's Progress:** Reviewed CSS positioning.
+
+**Thoughts:** CSS is a much deeper dive than it was in 2001!
+
+**Link to work:** [Learn Layout](http://learnlayout.com/)
+
+
+### Day 56: March 2, 2018
+
+**Today's Progress:** Figured out how to filter category pages via URL parameters in WordPress. Unimpressed in-trade guy wants to customize the output so I started looking into how I can create category-specific pages and add some PHP to output the tags to the page. I'll pick that up on Monday.
+
+**Thoughts:** It's the scenario where you figure something out and it's not good enough for the person you're working for. I'm going to start reframing these scenarios as opportunities to learn or do something new and powerful!
+
+**Link to work:** NA
+
+
 ### Day 55: March 1, 2018
 
 **Today's Progress:** Worked on GSW site page. Something odd in the HTML theme the previous guy had that wouldn't allow <blockquote> to render - weird! I just wrote my own CSS class. I think I'm going to make the sections live in accordions so the content isn't so long.
