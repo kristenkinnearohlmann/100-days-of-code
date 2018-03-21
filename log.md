@@ -1,5 +1,77 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 8, 2018
+
+**Today's Progress:** Started chapter 2 on Automate the Boring Stuff
+
+**Thoughts:** I like attacking multiple things at multiple angles. It may take a little longer to get to an educational destination, but I feel a lot more enriched when I get there.
+
+**Link to work:** [Automate the Boring Stuff - Chapter 2](https://automatetheboringstuff.com/chapter2/)
+
+
+### Day 33: February 7, 2018
+
+**Today's Progress:** Created 2 really great Python scripts! My in-trade job wanted to automate creating folders for a list of people and moving/copying MP3 files into the folders. I had to install a library and work with a bunch of tutorials and they work really nicely!
+
+**Thoughts:** This was one of the first times I felt I really had a handle on what I wanted to do and where to look to do it. Growing all the time!
+
+**Link to work:** NA
+
+
+### Day 32: February 6, 2018
+
+**Today's Progress:** Skimmed tutorials and articles. Still not fully recovered from travel.
+
+**Thoughts:** I'm glad reading is a good continuance activity!
+
+**Link to work:** NA
+
+
+### Day 31: February 5, 2018
+
+**Today's Progress:** Skimmed tutorials and articles in the airport.
+
+**Thoughts:** My husband is not always amused or interested in what I find to read about!
+
+**Link to work:** NA
+
+
+### Day 30: February 4, 2018
+
+**Today's Progress:** I spent the morning updating the GSW website to have it ready for our March concert. The direction I got was to make the concert date stand out. It wasn't very specific but I think I made some good choices if a little plain.
+
+**Thoughts:** Studying more current layouts will help with this issue as will getting back to Flatrion schoolwork, where I can get more involved with how to layout in the more current style.
+
+**Link to work:** [Grand Symphonic Winds](http://www.grandsymphonicwinds.org/)
+
+
+### Day 29: February 3, 2018
+
+**Today's Progress:** Skimmed tutorials and articles after the marathon - exhausted!
+
+**Thoughts:** It's not easy to absorb anything when you are overall bone tired!
+
+**Link to work:** NA
+
+
+### Day 28: February 2, 2018
+
+**Today's Progress:** I found a fun interactive VIM tutorial! I don't think I rightly absorbed it since I was mainly killing time before going to bed ahead of the Sedona Marathon. I'll have to re-review this!
+
+**Thoughts:** I have been actively avoiding VIM since at least 1995 - it finally found me and it wasn't nearly as scary as I thought it would be.
+
+**Link to work:** [Interactive VIM Tutorial](http://www.openvim.com/)
+
+
+### Day 27: February 1, 2018
+
+**Today's Progress:** Skimmed tutorials and articles
+
+**Thoughts:** Keeping the code study streak going like I do with my running streak - getting at least the minimum!
+
+**Link to work:** NA
+
+
 ### Day 26: January 31, 2018
 
 **Today's Progress:** JavaScript meetup - chatted with Sarah Rose Battles and assisted with someone's talk that included a demo.
