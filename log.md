@@ -1,5 +1,77 @@
 # 100 Days Of Code - Log
 
+### Day 42: February 16, 2018
+
+**Today's Progress:** I did quite a lot of work on Gravity Forms, including URL parameters between forms.
+
+**Thoughts:** I'm getting more comfortable with some of the things I'm committing to long-term memory. It makes getting simple work done much faster.
+
+**Link to work:** NA
+
+
+### Day 41: February 15, 2018
+
+**Today's Progress:** I worked on my Nav Bar pen in CodePen for GIG.
+
+**Thoughts:** I'm trying not to be a spoiler for the guy that does the website for GIG, but I also know that a good, organized drop-down menu will make a difference to the user experience.
+
+**Link to work:** [GIG Navbar](https://codepen.io/callmekko/pen/zpVgNJ)
+
+
+### Day 40: February 14, 2018
+
+**Today's Progress:** I tried a number of suggestions for populating my CPT with a Divi layout. No luck so far!
+
+**Thoughts:** This is definitely new territory for me. Frankly, I'm kind of enjoying being stumped!
+
+**Link to work:** NA
+
+
+### Day 39: February 13, 2018 
+
+**Today's Progress:** Skimmed tutorials and articles
+
+**Thoughts:** When I have time for nothing else, I can at least remind myself of the journey.
+
+**Link to work:** NA
+
+
+### Day 38: February 12, 2018
+
+**Today's Progress:** I reviewed the algorithm from my in-trade job for allocating students into groups, worked on Gravity Form logic, implemented passing a URL parameter for a MemberPress login form.
+
+**Thoughts:** My in-trade boss is a hobbyist IT guy but he sure can come up with a doozy of an algorithm!
+
+**Link to work:** NA
+
+
+### Day 37: February 11, 2018
+
+**Today's Progress:** Reviewed While Loop Statements on Automate the Boring Stuff
+
+**Thoughts:** It's interesting to me how loops differ among languages.
+
+**Link to work:** [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter2/)
+
+
+### Day 36: February 10, 2018
+
+**Today's Progress:** Reviewed Flow Control Statements on Automate the Boring Stuff
+
+**Thoughts:** Again, a nice review.
+
+**Link to work:** [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter2/)
+
+
+### Day 35: Feburary 9, 2018
+
+**Today's Progress:** Worked through Elements of Flow Control on Automate the Boring Stuff
+
+**Thoughts:** I always like to review concepts I already know but I want to watch out for overlearning.
+
+**Link to work:** [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter2/)
+
+
 ### Day 34: February 8, 2018
 
 **Today's Progress:** Started chapter 2 on Automate the Boring Stuff
