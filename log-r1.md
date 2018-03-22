@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 76: March 22, 2018
+
+**Today's Progress:** Reviewed CSS tutorials.
+
+**Thoughts:** I need a little more focused time to have this add to my brain.
+
+**Link to work:** [Learn Layout](http://learnlayout.com/), [30 CSS Selectors You Must Know](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
+
 ### Day 75: March 21, 2018
 
 **Today's Progress:** Worked a little more on trying to get to the proper logout link for MemberPress. I have a few more leads to pursue.
