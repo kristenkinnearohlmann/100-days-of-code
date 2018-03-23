@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 77: March 22, 2018
+
+**Today's Progress:** I was able to combined several concepts and some information from MemberPress to get my dynamic Login/Logout link working so I could deploy that and the dynamic student dashboard link. Unless you're a member of the site, you won't be able to see the link updated to Logout, but trust me, it's real and it works.
+
+**Thoughts:** I'm reminding myself that I shouldn't be afraid to ask questions. I know I used to be the frightful person that yelled at people for not coming prepared with their research, but I know now that wasn't the best way to weed out the lazy from the people who just needed more help. I'll risk looking lazy in order to get goals accomplished.
+
+**Link to work:** [School of Voiceover](https://www.schoolofvoiceover.com/)
+
+
 ### Day 76: March 22, 2018
 
 **Today's Progress:** Reviewed CSS tutorials.
