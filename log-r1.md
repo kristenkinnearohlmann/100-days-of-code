@@ -1,6 +1,87 @@
 # 100 Days Of Code - Log
 
-### Day 77: March 22, 2018
+### Day 86: April 1, 2018
+
+**Today's Progress:** Started work on a Bash tutorial I found. I haven't gotten very far at all but it was strangely satisfying to type a new command I didn't know before.
+
+**Thoughts:** I'm loosening up tightly held views on "what should be" and focusing on "what is" and "what can I learn?"
+
+**Link to work:** [The Bash Academy](http://www.bash.academy/)
+
+
+### Day 85: March 31, 2018
+
+**Today's Progress:** Duuuuude! JSForCats!! How did I not know this was a thing???
+
+**Thoughts:** I love a good tutorial and cats.
+
+**Link to work:** [JSForCats](http://jsforcats.com/)
+
+
+### Day 84: March 30, 2018
+
+**Today's Progress:** Located a Bash tutorial and started looking at Macs that will run macOS and Win10. Looked for examples of corner ribbons in CSS. Plus did some follow along in Codepen on Learn Layout.
+
+**Thoughts:** Now that my super busy March is ending, I'm trying to find larger chunks of time to learn and study before race week interrupts.
+
+**Link to work:** [Grid-Hard Way-Using Float](https://codepen.io/callmekko/pen/NYYmwa), [Grid-Easy Way-Using-Inline-Block](https://codepen.io/callmekko/pen/pLLBaV)
+
+
+### Day 83: March 29, 2018
+
+**Today's Progress:** Decided to mock a 3 column layout in Codepen rather than Mockflow. Found a quick and dirty flex hack from CSS Tricks and coded up a beautiful block of instructions in no time flat that responsively resized. Too bad the person I sent it to will re-render it as a table :( And later, popped in the suggested media query to make it mobile. Perfect, beautiful, easy. Love!
+
+**Thoughts:** Another leap in being able to assess, choose and find the right source of code to execute an idea. I need to do more work with grid, which has superceded flex.
+
+**Link to work:** [Race Change Cols](https://codepen.io/callmekko/pen/rddaEB)
+
+
+### Day 82: March 28, 2018
+
+**Today's Progress:** Frontend Masters workshop - oh boy. I didn't realize that my Win7 laptop had finally met its end of life - I couldn't get any of the code to my machine to follow along. Oddly enough, I found myself seated next to the boyfriend of a former Hack the Gap group member and he let me hang over his shoulder most of the day.
+
+**Thoughts:** I tried really hard not to be embarrassed but this is the thing that makes me feel like the "old guy" in the room. I think I'm going to head in the Mac running Win10 direction so I can Mac when needed and Win when needed.
+
+**Link to work:** [Frontend Masters](https://frontendmasters.com/)
+
+
+### Day 81: March 27, 2018
+
+**Today's Progress:** Re-read in-line block linked article - I still want to find time to work through the exercise in Codepen and compare on other browsers.
+
+**Thoughts:** I'm still impressed with the way things evolved. There's a regret I keep dealing with that I didn't keep up with things, then I remind myself of my capacity to learn quickly and fully and know all is not lost.
+
+**Link to work:** [Learn Layout](http://learnlayout.com/)
+
+
+### Day 80: March 26, 2018
+
+**Today's Progress:** Reviewed inline block - a revelation!! - from Learn Layout. I'm going to read it again together with the excellent link to IE and Firefox hacks because I thought I was stuck with float and I can use inline-block!
+
+**Thoughts:** Wow!! I love all the things I'm learning are now possible - it's very freeing and empowering.
+
+**Link to work:** [Learn Layout](http://learnlayout.com/)
+
+
+### Day 79: March 25, 2018
+
+**Today's Progress:** Reviewed CSS media queries a second time from Learn Layout.
+
+**Thoughts:** Media queries is one of those things that happened between 2001 and 2016, so I really have been trying to understand them from every possible angle.
+
+**Link to work:** [Learn Layout](http://learnlayout.com/)
+
+
+### Day 78: March 24, 2018
+
+**Today's Progress:** Reviewed usage of login/logout solution on other browsers, read more about media query from Learn Layout
+
+**Thoughts:** I always forget to test with other browsers the way I forget to check for pulse and breathing before yelling "Call 911!" during first aid training. The more I practice, the more I'll remember.
+
+**Link to work:** [Learn Layout](http://learnlayout.com/)
+
+
+### Day 77: March 23, 2018
 
 **Today's Progress:** I was able to combined several concepts and some information from MemberPress to get my dynamic Login/Logout link working so I could deploy that and the dynamic student dashboard link. Unless you're a member of the site, you won't be able to see the link updated to Logout, but trust me, it's real and it works.
 
