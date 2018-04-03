@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 87: April 2, 2018
+
+**Today's Progress:** All I had time to do was work with the pages in my running group's member tool to update "articles" and template email for the women's running camp I am coaching. Also finished Learn Layout.
+
+**Thoughts:** It's odd how balky some tools are - I'm glad they generally provide an option to work in HTML!
+
+**Link to work:** [Learn Layout](http://learnlayout.com/)
+
+
 ### Day 86: April 1, 2018
 
 **Today's Progress:** Started work on a Bash tutorial I found. I haven't gotten very far at all but it was strangely satisfying to type a new command I didn't know before.
