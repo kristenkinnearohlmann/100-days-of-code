@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 88: April 3, 2018
+
+**Today's Progress:** I worked a little on Twilio Quest - it's funny because it should be easy but isn't? It's just new. Then I dove into a random JSON tutorial I found, because I really only can "get" JSON but can't "do" JSON. Which led to the Wikipedia article on serialization because I've never really "gotten" it I just kind of "got" it. And then I used Git Bash for Windows to move around my temp file for 100 Days of code and then I worked through some of the JSON tutorial. Huge day!!
+
+**Thoughts:** There are SO many topics I never explored, because I both feared looking stupid as well as hopelessly out of date. Now, a sane person would tell you that would only get worse over time; I finally figured this out. Now, once I detect that feeling coming up, I have an automatic counteract that is basically bubbling excitement - I get to learn something new!! Also, serializing is like deconstructing the orange and deserializing is like reconstructing the orange, right?!?!?
+
+**Link to work:** [Twilio Quest](quest.twilio.com), [Tutorials Point JSON](https://www.tutorialspoint.com/json/json_overview.htm), [Serialization](https://en.wikipedia.org/wiki/Serialization)
+
+
 ### Day 87: April 2, 2018
 
 **Today's Progress:** All I had time to do was work with the pages in my running group's member tool to update "articles" and template email for the women's running camp I am coaching. Also finished Learn Layout.
