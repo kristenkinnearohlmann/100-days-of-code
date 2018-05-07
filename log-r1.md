@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ###Day 100: April 15, 2018
+
 **Today's Progress:** Brain dead! Located a React tutorial and the Vue intro. This all my poor brain could handle. Too much snow! And I found belately this was Day 100!!!
 
 **Thoughts:** Wow, I made it 100 days trying to focus every day on something related to code. I know I can do better. I know I'm already into the next 100 days and will need to improve the quality in May and forward, and I can and I will!
@@ -8,6 +9,7 @@
 **Link to work:** 
 
 ###Day 99: April 14, 2018
+
 **Today's Progress:** Despite epic snow, I made it to Minnebar. I was sad to miss being able to do speed dating but I felt like I was able to soak in a lot of information during sessions.
 
 **Thoughts:** Even thought 90% of this still goes in one ear and out the other, I am invigorated by where I can be in a year, etc.! Also, made a potential networking contact.
@@ -15,6 +17,7 @@
 **Link to work:** [Minnebar] (https://minnestar.org/minnebar/)
 
 ###Day 98: April 13, 2018
+
 **Today's Progress:** Poked around in WP for my in-trade job but didn't accomplish anything of note beyond some tweaks to forms and research.
 
 **Thoughts:** I've reached a limit here where I need some outside knowledge. Checking into more ways to learn.
@@ -22,6 +25,7 @@
 **Link to work:** 
 
 ###Day 97: April 12, 2018
+
 **Today's Progress:** I thought would be able to drop in jQuery to insert the menu for GSW but it didn't work. I decided to go ahead and simply update the menu manually on every page.
 
 **Thoughts:** I was less frustrated than I thought I would be.
@@ -29,6 +33,7 @@
 **Link to work:** 
 
 ###Day 96: April 11, 2018
+
 **Today's Progress:** Brain was tired to I searched for some junior dev resources to work on later. Read an article about how to level up.
 
 **Thoughts:** I'm one of those unusual people that enjoys digging into several different deep topics. Once one of them starts pulling too hard, my brain gets tired and I need to reset.
@@ -36,6 +41,7 @@
 **Link to work:** 
 
 ###Day 95: April 10, 2018
+
 **Today's Progress:** Needed to do an update to the race change info so updated my Pen for it. Sent it to the "web guy" and it still came up non-responsive and with colors where I didn't put them. It's a little maddening! Working more now on JSON since I only have a small block time before I need to get to rehearsal. 
 
 **Thoughts:** I'm dealing with my feelings regarding people who clearly have less knowledge than me convincing people to pay them to do work that's not as high quality. This is the world and no one is looking for the person with A+s on their report card. Good reminder!
@@ -43,6 +49,7 @@
 **Link to work:** 
 
 ###Day 94: April 9, 2018
+
 **Today's Progress:** Fought with my machine to get something, anything done. I spent a brief time moving my menu from a deep page to the index for GSW, then realized I needed to do something other than pasting that thing everywhere. Did some research and I'm thinking JS for the short term, since I plan to move to WP and there's no need to recreate the PHP wheel. Also had to process 40-some-odd pictures in PS because the photog dropped them full strength for MVO.
 
 **Thoughts:** There's some things I can do from tutorials and some that need more background knowledge so I can diverge from the tutorial.
@@ -50,6 +57,7 @@
 **Link to work:** 
 
 ###Day 93: April 8, 2018
+
 **Today's Progress:** Reviewed the first task in CodinGame and realized I had solved all of the test cases. 
 
 **Thoughts:** It was fun to run them all in turn!
@@ -57,6 +65,7 @@
 **Link to work:** [CodinGame] (https://www.codingame.com/)
 
 ###Day 92: April 7, 2018
+
 **Today's Progress:** Worked a little more in CodinGame. 
 
 **Thoughts:** I had to resort to the hint - which I've always hated - but I think for no good reason. Once I thought about it, I realized this site doesn't direct you to exactly where all code goes, which together with the hint (which was where my brain had started going anyway), I was able to pass the first test.
@@ -64,6 +73,7 @@
 **Link to work:** [CodinGame] (https://www.codingame.com/)
 
 ###Day 91: April 6, 2018
+
 **Today's Progress:** Did a little more in the Bash tutorial and found CodinGame.
 
 **Thoughts:** I still have to push past the fear of not knowing as much as I should know at this point.
@@ -72,6 +82,7 @@
 
 
 ###Day 90: April 5, 2018
+
 **Today's Progress:** Finally fixed PATH to have PHP - I overflowed the limit on the text box! Started again in JSON tutorial but too much noise where I was to focus. Ensured I was on the same chapter in both Python the Hard Way and Ruby the Hard Way.
 
 **Thoughts:** I've lost time and will lose time this month. I know I'll need to make May and June goals to ensure I am very focused on progress.
@@ -80,6 +91,7 @@
 
 
 ###Day 89: April 4, 2018
+
 **Today's Progress:** Spitballed solutions to distribute credentials based on an incrementing counter. My boss wants to rely on JS on a server that isn't rebooted; I argued for a true DB with CRUD and some storage. We'll see where it lands.
 
 **Thoughts:** I'm starting to recognize the feeling of being in a space where I need to connect to another space but I haven't figured out how/where yet. It used to scare me or make me angry; now, I feel patient and hopeful instead!
