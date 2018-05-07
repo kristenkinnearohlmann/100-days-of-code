@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-###R2 Day 22: May 7, 2018
+### R2 Day 22: May 7, 2018
 
 **Today's Progress:** Trying out Markdown for note-taking for the first time after taking yet another tutorial. We'll see if it sticks better this time around. Already I feel like I'm rocking it out!
 
@@ -9,7 +9,7 @@
 **Link to work:** [Markdown Reference](http://commonmark.org/help/)
 
 
-###R2 Day 21: May 6, 2018
+### R2 Day 21: May 6, 2018
 
 **Today's Progress:** More Markdown tutorial. 
 
@@ -18,7 +18,7 @@
 **Link to work:** [Markdown Reference](http://commonmark.org/help/)
 
 
-###R2 Day 20: May 5, 2018
+### R2 Day 20: May 5, 2018
 
 **Today's Progress:** More Markdown tutorial. 
 
@@ -27,7 +27,7 @@
 **Link to work:** [Markdown Reference](http://commonmark.org/help/)
 
 
-###R2 Day 19: May 4, 2018
+### R2 Day 19: May 4, 2018
 
 **Today's Progress:** More Markdown tutorial. 
 
@@ -36,7 +36,7 @@
 **Link to work:** [Markdown Reference](http://commonmark.org/help/)
 
 
-###R2 Day 18: May 3, 2018
+### R2 Day 18: May 3, 2018
 
 **Today's Progress:** More Markdown tutorial. 
 
@@ -45,7 +45,7 @@
 **Link to work:** [Markdown Reference](http://commonmark.org/help/)
 
 
-###R2 Day 17: May 2, 2018
+### R2 Day 17: May 2, 2018
 
 **Today's Progress:** Stirred myself to find a quick Ruby tutorial to start getting back on track. Fought with Git Bash for about 10 minutes before I realized that, unlike Python, you need to use IRB to do Ruby things so I finally was using the right winpty alias to try the tutorial. Promptly dumped the page trying to update VS Code :D Also looked for more Markdown tutorials so I can get more adept at it for notetaking. 
 
@@ -54,7 +54,7 @@
 **Link to work:** [Markdown Reference](http://commonmark.org/help/)
 
 
-###R2 Day 16: May 1, 2018
+### R2 Day 16: May 1, 2018
 
 **Today's Progress:** Skimmed articles
 
@@ -62,7 +62,7 @@
 
 **Link to work:** 
 
-###R2 Day 15: April 30, 2018
+### R2 Day 15: April 30, 2018
 
 **Today's Progress:** Skimmed articles - Get in Gear week.
 
@@ -70,7 +70,7 @@
 
 **Link to work:** 
 
-###R2 Day 14: April 29, 2018
+### R2 Day 14: April 29, 2018
 
 **Today's Progress:** Skimmed articles - Get in Gear week.
 
@@ -78,7 +78,7 @@
 
 **Link to work:** 
 
-###R2 Day 13: April 28, 2018
+### R2 Day 13: April 28, 2018
 
 **Today's Progress:** Skimmed articles - Get in Gear week.
 
@@ -86,7 +86,7 @@
 
 **Link to work:** 
 
-###R2 Day 12: April 27, 2018
+### R2 Day 12: April 27, 2018
 
 **Today's Progress:** Skimmed articles - Get in Gear week.
 
@@ -94,7 +94,7 @@
 
 **Link to work:** 
 
-###R2 Day 11: April 26, 2018
+### R2 Day 11: April 26, 2018
 
 **Today's Progress:** Skimmed articles - Get in Gear week.
 
@@ -102,7 +102,7 @@
 
 **Link to work:** 
 
-###R2 Day 10: April 25, 2018
+### R2 Day 10: April 25, 2018
 
 **Today's Progress:** Skimmed articles - Get in Gear week.
 
@@ -110,7 +110,7 @@
 
 **Link to work:** 
 
-###R2 Day 9: April 24, 2018
+### R2 Day 9: April 24, 2018
 
 **Today's Progress:**  Worked in Access to get race bibs updated - it's SQL!
 
@@ -118,7 +118,7 @@
 
 **Link to work:** 
 
-###R2 Day 8: April 23, 2018
+### R2 Day 8: April 23, 2018
 
 **Today's Progress:** Did some brief reading on React and Redux
 
@@ -126,7 +126,7 @@
 
 **Link to work:** 
 
-###R2 Day 7: April 22, 2018
+### R2 Day 7: April 22, 2018
 
 **Today's Progress:** Read history of CSS.
 
@@ -134,7 +134,7 @@
 
 **Link to work:** [Wikipedia: Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-###R2 Day 6: April 21, 2018
+### R2 Day 6: April 21, 2018
 
 **Today's Progress:** Twin Cities Code Camp - 22nd year how did I never hear about this before? Jim joined me and we had a fun time chatting and bumming around. I even chatted with some recruiters.
 
@@ -142,7 +142,7 @@
 
 **Link to work:** [Twin Cities Code Camp](https://twincitiescodecamp.com/#/home)
 
-###R2 Day 5: April 20, 2018
+### R2 Day 5: April 20, 2018
 
 **Today's Progress:** Started review of Ruby mental model article.
 
@@ -150,7 +150,7 @@
 
 **Link to work:** 
 
-###R2 Day 4: April 19, 2018
+### R2 Day 4: April 19, 2018
 
 **Today's Progress:** More work on the demo for GSW website.
 
@@ -158,7 +158,7 @@
 
 **Link to work:** 
 
-###R2 Day 3: April 18, 2018
+### R2 Day 3: April 18, 2018
 
 **Today's Progress:** Reviewed CSS selectors.
 
@@ -166,7 +166,7 @@
 
 **Link to work:** [30 CSS Selectors You Must Know](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
-###R2 Day 2: April 17, 2018
+### R2 Day 2: April 17, 2018
 
 **Today's Progress:** Reviewed CSS selectors.
 
@@ -175,7 +175,7 @@
 **Link to work:** [30 CSS Selectors You Must Know](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 
-###R2 Day 1: April 16, 2018
+### R2 Day 1: April 16, 2018
 
 **Today's Progress:** Day 1 of Round 2!! Reviewed CSS selectors.
 
