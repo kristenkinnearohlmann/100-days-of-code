@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### R3 Day 5: July 25, 2018
+
+**Today's Progress:** Hit a snag - I'm trying to finish the old track HTML/CSS on Flatiron and I just hit a dead-end with the lab. I'm not really getting super clear answers on how to get what I need. Since I'll be checking in next week with my educational coach, I think I'll jump tracks to the new track of HTML/CSS until I can get a clear answer.
+
+**Thoughts:** Even though I want to be frustrated, this is all progress. If I can get an answer before I get kicked out of my cafe haunt, I will or I will switch to the new track tomorrow. I'm couting this as work down on 100 days of code!
+
+**Link to work:** NA
+
 ### R3 Day 4: July 24, 2018
 
 **Today's Progress:** This was fun - althought this code along had a Sandbox link, I really couldn't figure out how it was supposed to work. So I plunged back into my Git Bash shell and tried to make a go of it. I forgot that at some point I set up SSH on Github, so I spent some time solving that too. I felt very smart!
