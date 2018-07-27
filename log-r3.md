@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### R3 Day 6: July 26, 2018
+
+**Today's Progress:** Last night, I read the additional GitHub page that Flatiron added - good stuff for having good repos! Today I started into the revised HTML path - I think I'll breeze through it even faster since I'm apparently OG with HTML (invented in 1993, I started using it in 1996 or so) and I've picked up a lot of knowledge of HTML5/CSS3 on the old track for HTML/CSS.
+
+**Thoughts:** I'm trying not to over-learn but also want to ensure I pick up any updates to my older knowledge. Happy to be moving along again!
+
+**Link to work:** NA
+
 ### R3 Day 5: July 25, 2018
 
 **Today's Progress:** Hit a snag - I'm trying to finish the old track HTML/CSS on Flatiron and I just hit a dead-end with the lab. I'm not really getting super clear answers on how to get what I need. Since I'll be checking in next week with my educational coach, I think I'll jump tracks to the new track of HTML/CSS until I can get a clear answer.
