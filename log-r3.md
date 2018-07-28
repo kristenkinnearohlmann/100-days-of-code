@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### R3 Day 7: July 27, 2018
+
+**Today's Progress:** I ran through a couple more CSS lessons this morning. I had planned to do more in the evening but decided sleep was a better idea.
+
+**Thoughts:** I like this little brain break.
+
+**Link to work:** NA
+
 ### R3 Day 6: July 26, 2018
 
 **Today's Progress:** Last night, I read the additional GitHub page that Flatiron added - good stuff for having good repos! Today I started into the revised HTML path - I think I'll breeze through it even faster since I'm apparently OG with HTML (invented in 1993, I started using it in 1996 or so) and I've picked up a lot of knowledge of HTML5/CSS3 on the old track for HTML/CSS.
