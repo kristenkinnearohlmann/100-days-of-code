@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### R3 Day 9: July 29, 2018
+
+**Today's Progress:** Beater day - I worked before church, between church and the nursing home, and for 1.5 hours after the nursing home to thrash this out. 2 more chats with technical coaches, one over voice, and I think I was starting to see the madness and the method - yes, just like that. I sweated out the final problem for 30 minutes and cracked it wide open.
+
+**Thoughts:** I am the champion!! Who appreciates the help of the technical coaches getting my brain to solve the last problem on its own.
+
+**Link to work:** [Ruby Methods with RegEx](https://github.com/learn-co-students/regex-lab-v-000)
+
+### R3 Day 8: July 28, 2018
+
+**Today's Progress:** Diving back into Ruby with RegEx. I read the lessons - it all made sense - then came the lab!! After the first problem solved, of 5 and with the technical coach pointing out I missed something dumb like upper and lower case letters, I rode my bike to dinner.
+
+**Thoughts:** Now I need to put the discipline into practice of tackling tough stuff with a positive attitude!
+
+**Link to work:** [Ruby Methods with RegEx](https://github.com/learn-co-students/regex-lab-v-000)
+
 ### R3 Day 7: July 27, 2018
 
 **Today's Progress:** I ran through a couple more CSS lessons this morning. I had planned to do more in the evening but decided sleep was a better idea.
