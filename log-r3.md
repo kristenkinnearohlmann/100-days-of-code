@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### R3 Day 10: July 30, 2018
+
+**Today's Progress:** I'm some re-review of Ruby based on the re-arrangement of lessons in the curriculum. I solved the methods and arguments lab in about 5 minutes flat.
+
+**Thoughts:** I think it's important to review some of this material to ensure it's sticking in my brain since December.
+
+**Link to work:** [Methods and Arguments lab](https://github.com/learn-co-students/method-arguments-lab-v-000)
+
 ### R3 Day 9: July 29, 2018
 
 **Today's Progress:** Beater day - I worked before church, between church and the nursing home, and for 1.5 hours after the nursing home to thrash this out. 2 more chats with technical coaches, one over voice, and I think I was starting to see the madness and the method - yes, just like that. I sweated out the final problem for 30 minutes and cracked it wide open.
